@@ -32,7 +32,7 @@ This project enables advanced image analysis and composite rendering using GPT, 
 ## 📦 Files
 
 - `prompts/` - Sample prompts for analyses
--            `reflection-analyst-prompt.md` – The complete prompt framework
+-            reflection-analyst-prompt.md – The complete prompt framework
 - `examples/` – Sample image analyses and composite outputs
 - `notebooks/` – Python tools for pre-processing or annotation
 
