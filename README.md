@@ -38,7 +38,9 @@ This project enables advanced image analysis and composite rendering using GPT, 
 
 ## 🚀 Usage
 
-Copy the contents of `reflection-analyst-prompt.md` into your GPT interface (e.g., GPT-4 with image input). Follow mode instructions and upload your image(s) to begin.
+https://chatgpt.com/g/g-67f02766ea448191b72cba38bc4c3e60-photographer-reflection-analysis
+
+Or copy the contents of `reflection-analyst-prompt.md` into your GPT interface (e.g., GPT-4 with image input). Follow mode instructions and upload your image(s) to begin.
 
 ## 📜 License
 
